@@ -16,12 +16,17 @@ During the course, aspects of open architecture and participation of the ouropre
 ![](images/bench_final.jpg)
 
 
-### Coordination
+
+
+## Watch the video on [youtube](https://youtu.be/JHTR3qGAvtk).
+
+
+## Coordination
 
 Rafael Lemieszek Pinheiro
 
 
-### Students
+## Students
 
 Adriely Pechutti
 
@@ -34,7 +39,7 @@ Renato G. Cruz
 Tales Capute
 
 
-### Woodwork
+## Woodwork
 
 Carlos Cocó
 
