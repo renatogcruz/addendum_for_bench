@@ -8,7 +8,7 @@ The first Parametric Architecture Workshop was offered in the first half of 2015
 
 ![](images/bench_process.jpg)
 
-During the course, aspects of open architecture and participation of the gold-black community were discussed. In step 1.0 and 1.5 questions were raised to be addressed in the following projects. The experimental project was a bank applique, used in the Open Campus event.
+During the course, aspects of open architecture and participation of the ouropretana community were discussed. In step 1.0 and 1.5 questions were raised to be addressed in the following projects. The experimental project was a bench applique, used in the Open Campus event.
 
 ![](images/bench.jpg)
 ![](images/bench_orient.jpg)
@@ -40,7 +40,7 @@ Carlos Cocó
 
 João 106
 
-Generous
+Generoso
 
 Edson
 
