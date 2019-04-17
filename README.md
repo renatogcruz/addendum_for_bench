@@ -18,7 +18,7 @@ During the course, aspects of open architecture and participation of the ouropre
 
 
 
-## Watch the video on [youtube](https://youtu.be/JHTR3qGAvtk).
+See the video on [youtube](https://youtu.be/2uLZlsZJpYM).
 
 
 ## Coordination
